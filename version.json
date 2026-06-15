@@ -1,10 +1,10 @@
 {
   "ios": {
-    "latestVersion": "1.0.3",
+    "latestVersion": "1.0.5",
     "minimumVersion": "1.0.0"
   },
   "android": {
-    "latestVersion": "1.0.3",
+    "latestVersion": "1.0.5",
     "minimumVersion": "1.0.0"
   }
 }
